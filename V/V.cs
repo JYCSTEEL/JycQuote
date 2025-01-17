@@ -11,7 +11,5 @@ namespace JycQuote.V
 
        int aa = 0;
         int bb = 0; 
-
-        int cc = 0;
     }
 }
