@@ -8,5 +8,7 @@ namespace JycQuote.V
 {
     internal class V
     {
+
+       int aa = 0;
     }
 }
